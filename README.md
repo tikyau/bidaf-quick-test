@@ -1,4 +1,4 @@
-# Extending the Bi-directional Attention Flow Model with "No Answer"
+# Extending the BiDAF Model with "No Answer"
 
 - This is the implementation used in [Zero-Shot Relation Extraction via Reading Comprehension][paper1] (Levy et al., 2017).
 - It is an extension of the [BiDAF model][paper2] by Seo et al.
