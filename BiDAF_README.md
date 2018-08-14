@@ -2,7 +2,6 @@
  
 - This the original implementation of [Bi-directional Attention Flow for Machine Comprehension][paper] (Seo et al., 2016).
 - The CodaLab worksheet for the [SQuAD Leaderboard][squad] submission is available [here][worksheet].
-- Please contact [Minjoon Seo][minjoon] ([@seominjoon][minjoon-github]) for questions and suggestions.
 
 ## 0. Requirements
 #### General
